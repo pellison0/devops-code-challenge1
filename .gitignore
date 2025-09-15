@@ -1,3 +1,6 @@
 node_modules/.terraform/
+ HEAD
 .terraform/
 .terraform/
+=======
+ 7e41f90 (Remove Terraform binaries and ignore .terraform folder)
